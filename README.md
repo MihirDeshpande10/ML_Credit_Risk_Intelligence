@@ -636,5 +636,5 @@ The project helped connect statistical analysis, machine learning model developm
 🔗 **GitHub:** [MihirDeshpande10](https://github.com/MihirDeshpande10)
  
 
-⭐ If you find this project interesting, feel free to explore the repository!
+ 
 
